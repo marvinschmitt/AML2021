@@ -1,0 +1,7 @@
+data/
+models/
+*.npy
+archive/
+literature/
+documents/
+git_setup.ipynb
